@@ -4,12 +4,12 @@
 <table width="100%">
   <tr>
     <td width="50%" align="left" style="padding-right: 20px;">
-      <img src="./GIF.gif" alt="Animated Banner" style="max-width: 100%; height: auto;" />
+      <img src="Assets/GifLite.gif" alt="Animated Banner" style="max-width: 100%; height: auto;" />
     </td>
     <td width="50%" valign="middle" align="left" style="padding-left: 20px;">
       <h1>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;" />
-        &nbsp;<b>Hi, I'm Avishek Shrestha 👨‍💻</b>
+        &nbsp;<b>Hi, I'm Avishek Shrestha</b>
         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzczcmIzbTIwczdzcGo1bXc3N3EwZDlqczA2dTVpbTM1am93NHJnNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif" width="35" style="vertical-align: middle;" />
       </h1>
       <div>
@@ -56,9 +56,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avishekshrestha&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=avishekshrestha&theme=tokyonight&fire=blue&ring=blue" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishekshrestha&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=xArE0&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=xArE0&theme=dark&fire=blue&ring=blue" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xArE0&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </div>
 
 ---
@@ -74,10 +74,26 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="mailto:lucaskiller1547@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/avishekshrestha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/avishekshrestha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:abhishrestha987@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-shrestha-/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/xArE0">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/abhishrestha987">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Lucas921547">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/avi.xtha">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=avishekshrestha&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
