@@ -66,7 +66,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avishekshrestha&theme=tokyonight&row=1&column=7" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=xArE0&theme=tokyonight&row=1&column=7" alt="Trophies">
 </div>
 
 ---
@@ -96,7 +96,7 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=avishekshrestha&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=xArE0&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
