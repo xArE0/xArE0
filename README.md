@@ -1,80 +1,26 @@
 <!-- README.md -->
 
-<img alt="Android Developer Challenge banner" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J0OWhpZTNia3Z6bWtpa3lsdWxjNjY5b2dkMWRzeDQ1MDhqOW9wOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif" style="width:100%">
+<!--Top Banner Section-->
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" style="padding-right: 20px;">
+      <img src="./GIF.gif" alt="Animated Banner" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="50%" valign="middle" align="left" style="padding-left: 20px;">
+      <h1>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;" />
+        &nbsp;<b>Hi, I'm Avishek Shrestha 👨‍💻</b>
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzczcmIzbTIwczdzcGo1bXc3N3EwZDlqczA2dTVpbTM1am93NHJnNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif" width="35" style="vertical-align: middle;" />
+      </h1>
+      <div>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=0CF73B&background=7FFFBB00&center=true&vCenter=true&width=440&height=60&lines=Tech+Enthusiast+%7C+Problem+Solver;Android+%2B+Web+Developer;Computer+Engineer" alt="Typing SVG" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">
-  <b>Hi, I'm Avishek Shrestha 👨‍💻</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=Android+%2B+AI+Enthusiast;Engineering+student+from+Nepal;Firebase+%2B+Jetpack+Compose+specialist;I+code+to+solve+real-world+problems!" alt="Typing SVG" />
-  </a>
-</div>
-
----
-
-## 💫 About Me
-
-<ul>
-  <li>🎓 3rd Year Engineering Student, Nepal</li>
-  <li>📱 Kotlin & Jetpack Compose app developer</li>
-  <li>🧠 Passionate about AI + Mobile Integration</li>
-  <li>🌐 Fluent in Firebase, Flutter, MySQL & Flask</li>
-  <li>🔄 Loves building real-time systems and smart apps</li>
-</ul>
-
----
-
-## 🚀 Projects
-
-### 🏡 Urban Finder  
-> *Smart Rental Finder powered by Firebase, Google Maps & AI*
-
-- 🔍 Location-aware property recommendations (~5km matching)
-- 💬 Real-time chat (Firestore)
-- 📍 OpenStreetMap navigation
-- 🌄 Cloudinary media uploads
-- ⭐ Rating & search filters, built with Jetpack Compose
-
----
-
-### 🧠 Animal Health Predictor  
-> *Offline-capable app using TFLite to predict animal diseases*
-
-- 🐄 Trained with scikit-learn
-- 📥 Uses preprocessed encoders: symptom, disease, animal
-- 🧪 TensorFlow Lite prediction inside Android Jetpack app
-
----
-
-### 💸 Expense Tracker  
-> *Flutter app with persistent local database*
-
-- 🔐 Uses `expense_tracker.db`
-- ⚡ Data preserved with `flutter run --release`
-- ☁️ Optional Firebase sync
-
----
-
-### 🛒 Flask + MySQL E-Commerce API  
-> *Fast, local backend for college use*
-
-- 🧾 Endpoints for products, users, orders, reviews
-- 🌐 Hosted via LAN
-- 🧱 Used in test Flutter apps via HTTP calls
-
----
-
-## 📘 Academic Focus
-
-| 📘 Subject                   | 💡 Area                               |
-|-----------------------------|----------------------------------------|
-| Computer Architecture        | ISA, pipelining, caching               |
-| Embedded Systems             | Microcontroller-level systems          |
-| Simulation & Modeling        | Replication of runs, data analysis     |
-| Probability & Statistics     | Distributions, random sampling         |
 
 ---
 
@@ -94,6 +40,16 @@
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
+
+---
+
+## 💫 About Me
+
+<ul>
+  <li>🎓Engineering Student</li>
+  <li>📱 Android app developer</li>
+  <li>🔄 Loves building real-time systems and smart apps</li>
+</ul>
 
 ---
 
@@ -123,13 +79,9 @@
   <a href="https://github.com/avishekshrestha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=avishekshrestha&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
-
-> _"झरना झैँ बगिरहन्छु — flowing through code and creativity."_
 
